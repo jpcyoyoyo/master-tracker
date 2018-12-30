@@ -16,14 +16,18 @@ For the second key, TheTheoristGateway took you back to the "youareprepared" vid
 
 This one stumped a lot of people. Theorists were orignally given a video that showed the text "leave. no. stone. unturned." and then flashing green lines under letters. Theorists found that this was showing a link and led to unturnnostone.com which showed a link with question marks as an extension. Clicking on it brought you to a page with a bunch of stones and then the question marks. Some theorists found that this was to show a pattern.
 
-![unturnnostone](./assets/b1.k.3.png)
-
 The Red Questionmark Pattern: Add 2 starting from A each time until you get to the "?"
+
 The Green Questionmark Pattern: Subtract 3 starting from Z each time until you get to the "?"
+
 The Blue Questionmark Pattern: A +1 +2 +3 +4.. and so on until you get to the "?"
+
 The Orange Questionmark Pattern: Skip two letters starting from AB until you get to the "?"
+
 The Yellow Questionmark Pattern: Start with ZA and add a letter respectively in pairs until you get to the "?"
+
 The Purple Questionmark Pattern: +77 +66 +55 +44 +33.. and so on until you get to the "?"
+
 The Black Questionmark Pattern: Addition is all you need to complete it!
 
 These patterns resulted in you getting MHVYZTG30888, but plugging it in did not work. Theorists THEN found that it had to be lowercase to get to the correct place.
